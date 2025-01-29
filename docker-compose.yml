@@ -1,0 +1,65 @@
+version: '3.8'
+
+services:
+  spark-master:
+    image: bitnami/spark:3.3.1
+    container_name: spark-master
+    environment:
+      - SPARK_MODE=master
+    ports:
+      - "8080:8080"  # Interface web de Spark
+      - "7077:7077"  # Port de communication Spark Master
+    volumes:
+      - ./app:/app  # Monter le dossier local contenant le script PySpark
+    networks:
+      - spark-network
+
+  spark-worker:
+    image: bitnami/spark:3.3.1
+    container_name: spark-worker
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark-master:7077
+    depends_on:
+      - spark-master
+    volumes:
+      - ./app:/app  # Monter le dossier local contenant le script PySpark
+    networks:
+      - spark-network
+
+  mongodb:
+    image: mongo:6.0
+    container_name: mongodb
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=example
+    ports:
+      - "27017:27017"  # Port MongoDB
+    volumes:
+      - mongodb_data:/data/db  # Persistance des données MongoDB
+    networks:
+      - spark-network
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: face-encoding-app
+    depends_on:
+      - spark-master
+      - spark-worker
+      - mongodb
+    environment:
+      - SPARK_MASTER=spark://spark-master:7077
+      - MONGO_URI=mongodb://root:example@mongodb:27017
+    volumes:
+      - ./app:/app  # Monter le dossier local contenant le script PySpark
+    networks:
+      - spark-network
+
+volumes:
+  mongodb_data:
+
+networks:
+  spark-network:
+    driver: bridge

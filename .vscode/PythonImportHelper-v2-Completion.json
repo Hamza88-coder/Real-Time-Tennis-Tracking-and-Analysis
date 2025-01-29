@@ -1,0 +1,803 @@
+[
+    {
+        "label": "KafkaConsumer",
+        "importPath": "kafka",
+        "description": "kafka",
+        "isExtraImport": true,
+        "detail": "kafka",
+        "documentation": {}
+    },
+    {
+        "label": "KafkaProducer",
+        "importPath": "kafka",
+        "description": "kafka",
+        "isExtraImport": true,
+        "detail": "kafka",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "dumps",
+        "importPath": "json",
+        "description": "json",
+        "isExtraImport": true,
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "YOLO",
+        "importPath": "ultralytics",
+        "description": "ultralytics",
+        "isExtraImport": true,
+        "detail": "ultralytics",
+        "documentation": {}
+    },
+    {
+        "label": "YOLO",
+        "importPath": "ultralytics",
+        "description": "ultralytics",
+        "isExtraImport": true,
+        "detail": "ultralytics",
+        "documentation": {}
+    },
+    {
+        "label": "YOLO",
+        "importPath": "ultralytics",
+        "description": "ultralytics",
+        "isExtraImport": true,
+        "detail": "ultralytics",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision.transforms",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "constants",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "constants",
+        "description": "constants",
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "convert_meters_to_pixel_distance",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_pixel_distance_to_meters",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_foot_position",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_closest_keypoint_index",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_height_of_bbox",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "measure_xy_distance",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_center_of_bbox",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "measure_distance",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "measure_distance",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_center_of_bbox",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "face_recognition",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "face_recognition",
+        "description": "face_recognition",
+        "detail": "face_recognition",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "PlayerTracker",
+        "importPath": "trackers",
+        "description": "trackers",
+        "isExtraImport": true,
+        "detail": "trackers",
+        "documentation": {}
+    },
+    {
+        "label": "BallTracker",
+        "importPath": "trackers",
+        "description": "trackers",
+        "isExtraImport": true,
+        "detail": "trackers",
+        "documentation": {}
+    },
+    {
+        "label": "FaceRecognizer",
+        "importPath": "mongoDB",
+        "description": "mongoDB",
+        "isExtraImport": true,
+        "detail": "mongoDB",
+        "documentation": {}
+    },
+    {
+        "label": "findspark",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "findspark",
+        "description": "findspark",
+        "detail": "findspark",
+        "documentation": {}
+    },
+    {
+        "label": "CourtLineDetector",
+        "importPath": "court_line_detector",
+        "description": "court_line_detector",
+        "isExtraImport": true,
+        "detail": "court_line_detector",
+        "documentation": {}
+    },
+    {
+        "label": "MiniCourt",
+        "importPath": "mini_court",
+        "description": "mini_court",
+        "isExtraImport": true,
+        "detail": "mini_court",
+        "documentation": {}
+    },
+    {
+        "label": "apply_yolo",
+        "kind": 2,
+        "importPath": "consumer.spark_cons",
+        "description": "consumer.spark_cons",
+        "peekOfCode": "def apply_yolo(frame):\n    \"\"\"\n    Applique YOLO sur une frame pour détecter des objets.\n    :param frame: Image en format numpy array.\n    :return: Liste des détections.\n    \"\"\"\n    results = model(frame)  # Appliquer YOLO\n    detections = []\n    for result in results:\n        for box in result.boxes:",
+        "detail": "consumer.spark_cons",
+        "documentation": {}
+    },
+    {
+        "label": "decode_base64_image",
+        "kind": 2,
+        "importPath": "consumer.spark_cons",
+        "description": "consumer.spark_cons",
+        "peekOfCode": "def decode_base64_image(base64_str):\n    \"\"\"\n    Décoder une image en base64 vers un tableau numpy.\n    :param base64_str: Image encodée en base64.\n    :return: Image en format numpy array.\n    \"\"\"\n    img_data = base64.b64decode(base64_str)\n    np_arr = np.frombuffer(img_data, dtype=np.uint8)\n    frame = cv2.imdecode(np_arr, cv2.IMREAD_COLOR)\n    return frame",
+        "detail": "consumer.spark_cons",
+        "documentation": {}
+    },
+    {
+        "label": "TOPIC",
+        "kind": 5,
+        "importPath": "consumer.spark_cons",
+        "description": "consumer.spark_cons",
+        "peekOfCode": "TOPIC = \"camera_streams\"\n# Initialisation du consommateur Kafka\nconsumer = KafkaConsumer(\n    TOPIC,\n    bootstrap_servers=['localhost:29092'],\n    value_deserializer=lambda x: json.loads(x.decode('utf-8')),\n    auto_offset_reset='earliest',  # Commence à lire à partir du début des messages\n    group_id='camera-consumer-group',  # Groupe de consommateurs\n    enable_auto_commit=True  # Les messages sont marqués comme lus automatiquement\n)",
+        "detail": "consumer.spark_cons",
+        "documentation": {}
+    },
+    {
+        "label": "consumer",
+        "kind": 5,
+        "importPath": "consumer.spark_cons",
+        "description": "consumer.spark_cons",
+        "peekOfCode": "consumer = KafkaConsumer(\n    TOPIC,\n    bootstrap_servers=['localhost:29092'],\n    value_deserializer=lambda x: json.loads(x.decode('utf-8')),\n    auto_offset_reset='earliest',  # Commence à lire à partir du début des messages\n    group_id='camera-consumer-group',  # Groupe de consommateurs\n    enable_auto_commit=True  # Les messages sont marqués comme lus automatiquement\n)\n# Charger le modèle YOLO\nmodel = YOLO('yolov8x.pt')  # YOLOv8 Nano pour des performances rapides",
+        "detail": "consumer.spark_cons",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "consumer.spark_cons",
+        "description": "consumer.spark_cons",
+        "peekOfCode": "model = YOLO('yolov8x.pt')  # YOLOv8 Nano pour des performances rapides\n# Fonction d'inférence YOLO\ndef apply_yolo(frame):\n    \"\"\"\n    Applique YOLO sur une frame pour détecter des objets.\n    :param frame: Image en format numpy array.\n    :return: Liste des détections.\n    \"\"\"\n    results = model(frame)  # Appliquer YOLO\n    detections = []",
+        "detail": "consumer.spark_cons",
+        "documentation": {}
+    },
+    {
+        "label": "CourtLineDetector",
+        "kind": 6,
+        "importPath": "court_line_detector.court_line_detetor",
+        "description": "court_line_detector.court_line_detetor",
+        "peekOfCode": "class CourtLineDetector:\n    def __init__(self, model_path):\n        self.model = models.resnet50(pretrained=True)\n        self.model.fc = torch.nn.Linear(self.model.fc.in_features, 14*2) \n        self.model.load_state_dict(torch.load(model_path, map_location='cpu'))\n        self.transform = transforms.Compose([\n            transforms.ToPILImage(),\n            transforms.Resize((224, 224)),\n            transforms.ToTensor(),\n            transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])",
+        "detail": "court_line_detector.court_line_detetor",
+        "documentation": {}
+    },
+    {
+        "label": "CourtDetector",
+        "kind": 6,
+        "importPath": "map.map",
+        "description": "map.map",
+        "peekOfCode": "class CourtDetector:\n    def __init__(self, image_path):\n        self.image = cv2.imread(image_path)\n        self.gray = cv2.cvtColor(self.image, cv2.COLOR_BGR2GRAY)\n        self.edges = cv2.Canny(self.gray, 50, 150)\n        self.drawing_key_points = [0] * 28\n    def detect_lines(self):\n        return cv2.HoughLinesP(self.edges, 1, np.pi / 180, threshold=100, minLineLength=50, maxLineGap=10)\n    def find_intersections(self, lines):\n        intersections = []",
+        "detail": "map.map",
+        "documentation": {}
+    },
+    {
+        "label": "detector",
+        "kind": 5,
+        "importPath": "map.map",
+        "description": "map.map",
+        "peekOfCode": "detector = CourtDetector(r\"C:\\Users\\HP\\OneDrive\\Desktop\\system_spark\\videos\\tactic_map.JPG\")\ndetector.set_court_drawing_key_points()\ndetector.draw_and_label_points()\nkey_points = detector.get_key_points()\nprint(\"Points détectés:\", key_points)",
+        "detail": "map.map",
+        "documentation": {}
+    },
+    {
+        "label": "key_points",
+        "kind": 5,
+        "importPath": "map.map",
+        "description": "map.map",
+        "peekOfCode": "key_points = detector.get_key_points()\nprint(\"Points détectés:\", key_points)",
+        "detail": "map.map",
+        "documentation": {}
+    },
+    {
+        "label": "MiniCourt",
+        "kind": 6,
+        "importPath": "mini_court.mini_court",
+        "description": "mini_court.mini_court",
+        "peekOfCode": "class MiniCourt():\n    def __init__(self):\n        self.frame=cv2.imread(r\"C:\\Users\\HP\\OneDrive\\Desktop\\system_spark\\annotated_tactic_map.jpg\")\n        self.court_drawing_width=8\n        self.set_court_drawing_key_points()\n    def convert_meters_to_pixels(self, meters):\n        return convert_meters_to_pixel_distance(meters,\n                                                constants.DOUBLE_LINE_WIDTH,\n                                                self.court_drawing_width\n                                            )",
+        "detail": "mini_court.mini_court",
+        "documentation": {}
+    },
+    {
+        "label": "FaceEncoder",
+        "kind": 6,
+        "importPath": "mongoDB.encoder",
+        "description": "mongoDB.encoder",
+        "peekOfCode": "class FaceEncoder:\n    def __init__(self, mongo_uri, db_name, players_collection_name, encodings_collection_name):\n        \"\"\"\n        Initialise la connexion à MongoDB et les collections.\n        \"\"\"\n        self.client = MongoClient(mongo_uri)\n        self.db = self.client[db_name]\n        self.players_collection = self.db[players_collection_name]\n        self.encodings_collection = self.db[encodings_collection_name]\n    def load_images_from_folder(self, folder_path):",
+        "detail": "mongoDB.encoder",
+        "documentation": {}
+    },
+    {
+        "label": "FaceRecognizer",
+        "kind": 6,
+        "importPath": "mongoDB.recognizer",
+        "description": "mongoDB.recognizer",
+        "peekOfCode": "class FaceRecognizer:\n    def __init__(self, mongo_uri, db_name, encodings_collection_name):\n        \"\"\"\n        Initialise la connexion à MongoDB et charge les encodages des visages.\n        \"\"\"\n        self.client = MongoClient(mongo_uri)\n        self.db = self.client[db_name]\n        self.encodings_collection = self.db[encodings_collection_name]\n    def load_encodings_from_mongodb(self):\n        \"\"\"",
+        "detail": "mongoDB.recognizer",
+        "documentation": {}
+    },
+    {
+        "label": "simulate_camera",
+        "kind": 2,
+        "importPath": "producer.producer",
+        "description": "producer.producer",
+        "peekOfCode": "def simulate_camera(camera_id, video_path):\n    \"\"\"\n    Fonction pour simuler la capture d'une vidéo et envoyer les données à Kafka.\n    \"\"\"\n    # Charger la vidéo avec OpenCV\n    camera = cv2.VideoCapture(video_path)\n    if not camera.isOpened():\n        print(f\"Erreur : la vidéo pour la caméra {camera_id} n'a pas pu être chargée.\")\n        return\n    try:",
+        "detail": "producer.producer",
+        "documentation": {}
+    },
+    {
+        "label": "TOPIC",
+        "kind": 5,
+        "importPath": "producer.producer",
+        "description": "producer.producer",
+        "peekOfCode": "TOPIC = \"camera_streams\"\n# Initialisation du producteur Kafka\nproducer = KafkaProducer(\n    bootstrap_servers=['localhost:29092'],\n    value_serializer=lambda x: dumps(x).encode('utf-8')\n)\n# Liste des chemins des vidéos (remplacez par vos propres vidéos)\nvideo_paths = [\n    r\"C:\\Users\\HP\\OneDrive\\Desktop\\system_spark\\videos\\input_video.mp4\",\n]",
+        "detail": "producer.producer",
+        "documentation": {}
+    },
+    {
+        "label": "producer",
+        "kind": 5,
+        "importPath": "producer.producer",
+        "description": "producer.producer",
+        "peekOfCode": "producer = KafkaProducer(\n    bootstrap_servers=['localhost:29092'],\n    value_serializer=lambda x: dumps(x).encode('utf-8')\n)\n# Liste des chemins des vidéos (remplacez par vos propres vidéos)\nvideo_paths = [\n    r\"C:\\Users\\HP\\OneDrive\\Desktop\\system_spark\\videos\\input_video.mp4\",\n]\ndef simulate_camera(camera_id, video_path):\n    \"\"\"",
+        "detail": "producer.producer",
+        "documentation": {}
+    },
+    {
+        "label": "video_paths",
+        "kind": 5,
+        "importPath": "producer.producer",
+        "description": "producer.producer",
+        "peekOfCode": "video_paths = [\n    r\"C:\\Users\\HP\\OneDrive\\Desktop\\system_spark\\videos\\input_video.mp4\",\n]\ndef simulate_camera(camera_id, video_path):\n    \"\"\"\n    Fonction pour simuler la capture d'une vidéo et envoyer les données à Kafka.\n    \"\"\"\n    # Charger la vidéo avec OpenCV\n    camera = cv2.VideoCapture(video_path)\n    if not camera.isOpened():",
+        "detail": "producer.producer",
+        "documentation": {}
+    },
+    {
+        "label": "BallTracker",
+        "kind": 6,
+        "importPath": "trackers.ball_tracker",
+        "description": "trackers.ball_tracker",
+        "peekOfCode": "class BallTracker:\n    def __init__(self,model_path):\n        self.model = YOLO(model_path)\n    def interpolate_ball_positions(self, ball_positions):\n        ball_positions = [x.get(1,[]) for x in ball_positions]\n        # convert the list into pandas dataframe\n        df_ball_positions = pd.DataFrame(ball_positions,columns=['x1','y1','x2','y2'])\n        # interpolate the missing values\n        df_ball_positions = df_ball_positions.interpolate()\n        df_ball_positions = df_ball_positions.bfill()",
+        "detail": "trackers.ball_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "PlayerTracker",
+        "kind": 6,
+        "importPath": "trackers.player_tracker",
+        "description": "trackers.player_tracker",
+        "peekOfCode": "class PlayerTracker:\n    def __init__(self,model_path):\n        self.model = YOLO(model_path)\n    def choose_and_filter_players(self, court_keypoints, player_detections):\n        player_detections_first_frame = player_detections[0]\n        chosen_player = self.choose_players(court_keypoints, player_detections_first_frame)\n        filtered_player_detections = []\n        for player_dict in player_detections:\n            filtered_player_dict = {track_id: bbox for track_id, bbox in player_dict.items() if track_id in chosen_player}\n            filtered_player_detections.append(filtered_player_dict)",
+        "detail": "trackers.player_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "get_center_of_bbox",
+        "kind": 2,
+        "importPath": "utils.bbox_utils",
+        "description": "utils.bbox_utils",
+        "peekOfCode": "def get_center_of_bbox(bbox):\n    x1, y1, x2, y2 = bbox\n    center_x = int((x1 + x2) / 2)\n    center_y = int((y1 + y2) / 2)\n    return (center_x, center_y)\ndef measure_distance(p1,p2):\n    return ((p1[0]-p2[0])**2 + (p1[1]-p2[1])**2)**0.5\ndef get_foot_position(bbox):\n    x1, y1, x2, y2 = bbox\n    return (int((x1 + x2) / 2), y2)",
+        "detail": "utils.bbox_utils",
+        "documentation": {}
+    },
+    {
+        "label": "measure_distance",
+        "kind": 2,
+        "importPath": "utils.bbox_utils",
+        "description": "utils.bbox_utils",
+        "peekOfCode": "def measure_distance(p1,p2):\n    return ((p1[0]-p2[0])**2 + (p1[1]-p2[1])**2)**0.5\ndef get_foot_position(bbox):\n    x1, y1, x2, y2 = bbox\n    return (int((x1 + x2) / 2), y2)\ndef get_closest_keypoint_index(point, keypoints, keypoint_indices):\n   closest_distance = float('inf')\n   key_point_ind = keypoint_indices[0]\n   for keypoint_indix in keypoint_indices:\n       keypoint = keypoints[keypoint_indix*2], keypoints[keypoint_indix*2+1]",
+        "detail": "utils.bbox_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_foot_position",
+        "kind": 2,
+        "importPath": "utils.bbox_utils",
+        "description": "utils.bbox_utils",
+        "peekOfCode": "def get_foot_position(bbox):\n    x1, y1, x2, y2 = bbox\n    return (int((x1 + x2) / 2), y2)\ndef get_closest_keypoint_index(point, keypoints, keypoint_indices):\n   closest_distance = float('inf')\n   key_point_ind = keypoint_indices[0]\n   for keypoint_indix in keypoint_indices:\n       keypoint = keypoints[keypoint_indix*2], keypoints[keypoint_indix*2+1]\n       distance = abs(point[1]-keypoint[1])\n       if distance<closest_distance:",
+        "detail": "utils.bbox_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_closest_keypoint_index",
+        "kind": 2,
+        "importPath": "utils.bbox_utils",
+        "description": "utils.bbox_utils",
+        "peekOfCode": "def get_closest_keypoint_index(point, keypoints, keypoint_indices):\n   closest_distance = float('inf')\n   key_point_ind = keypoint_indices[0]\n   for keypoint_indix in keypoint_indices:\n       keypoint = keypoints[keypoint_indix*2], keypoints[keypoint_indix*2+1]\n       distance = abs(point[1]-keypoint[1])\n       if distance<closest_distance:\n           closest_distance = distance\n           key_point_ind = keypoint_indix\n   return key_point_ind",
+        "detail": "utils.bbox_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_height_of_bbox",
+        "kind": 2,
+        "importPath": "utils.bbox_utils",
+        "description": "utils.bbox_utils",
+        "peekOfCode": "def get_height_of_bbox(bbox):\n    return bbox[3]-bbox[1]\ndef measure_xy_distance(p1,p2):\n    return abs(p1[0]-p2[0]), abs(p1[1]-p2[1])\ndef get_center_of_bbox(bbox):\n    return (int((bbox[0]+bbox[2])/2),int((bbox[1]+bbox[3])/2))",
+        "detail": "utils.bbox_utils",
+        "documentation": {}
+    },
+    {
+        "label": "measure_xy_distance",
+        "kind": 2,
+        "importPath": "utils.bbox_utils",
+        "description": "utils.bbox_utils",
+        "peekOfCode": "def measure_xy_distance(p1,p2):\n    return abs(p1[0]-p2[0]), abs(p1[1]-p2[1])\ndef get_center_of_bbox(bbox):\n    return (int((bbox[0]+bbox[2])/2),int((bbox[1]+bbox[3])/2))",
+        "detail": "utils.bbox_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_center_of_bbox",
+        "kind": 2,
+        "importPath": "utils.bbox_utils",
+        "description": "utils.bbox_utils",
+        "peekOfCode": "def get_center_of_bbox(bbox):\n    return (int((bbox[0]+bbox[2])/2),int((bbox[1]+bbox[3])/2))",
+        "detail": "utils.bbox_utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_pixel_distance_to_meters",
+        "kind": 2,
+        "importPath": "utils.conversions",
+        "description": "utils.conversions",
+        "peekOfCode": "def convert_pixel_distance_to_meters(pixel_distance, refrence_height_in_meters, refrence_height_in_pixels):\n    return (pixel_distance * refrence_height_in_meters) / refrence_height_in_pixels\ndef convert_meters_to_pixel_distance(meters, refrence_height_in_meters, refrence_height_in_pixels):\n    return (meters * refrence_height_in_pixels) / refrence_height_in_meters",
+        "detail": "utils.conversions",
+        "documentation": {}
+    },
+    {
+        "label": "convert_meters_to_pixel_distance",
+        "kind": 2,
+        "importPath": "utils.conversions",
+        "description": "utils.conversions",
+        "peekOfCode": "def convert_meters_to_pixel_distance(meters, refrence_height_in_meters, refrence_height_in_pixels):\n    return (meters * refrence_height_in_pixels) / refrence_height_in_meters",
+        "detail": "utils.conversions",
+        "documentation": {}
+    },
+    {
+        "label": "draw_player_stats",
+        "kind": 2,
+        "importPath": "utils.player_stats_drawer_utils",
+        "description": "utils.player_stats_drawer_utils",
+        "peekOfCode": "def draw_player_stats(output_video_frames,player_stats):\n    for index, row in player_stats.iterrows():\n        player_1_shot_speed = row['player_1_last_shot_speed']\n        player_2_shot_speed = row['player_2_last_shot_speed']\n        player_1_speed = row['player_1_last_player_speed']\n        player_2_speed = row['player_2_last_player_speed']\n        avg_player_1_shot_speed = row['player_1_average_shot_speed']\n        avg_player_2_shot_speed = row['player_2_average_shot_speed']\n        avg_player_1_speed = row['player_1_average_player_speed']\n        avg_player_2_speed = row['player_2_average_player_speed']",
+        "detail": "utils.player_stats_drawer_utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_video",
+        "kind": 2,
+        "importPath": "utils.video_utils",
+        "description": "utils.video_utils",
+        "peekOfCode": "def read_video(video_path):\n    cap = cv2.VideoCapture(video_path)\n    frames = []\n    while True:\n        ret, frame = cap.read()\n        if not ret:\n            break\n        frames.append(frame)\n    cap.release()\n    return frames",
+        "detail": "utils.video_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_video",
+        "kind": 2,
+        "importPath": "utils.video_utils",
+        "description": "utils.video_utils",
+        "peekOfCode": "def save_video(output_video_frames, output_video_path):\n    fourcc = cv2.VideoWriter_fourcc(*'MJPG')\n    out = cv2.VideoWriter(output_video_path, fourcc, 24, (output_video_frames[0].shape[1], output_video_frames[0].shape[0]))\n    for frame in output_video_frames:\n        out.write(frame)\n    out.release()",
+        "detail": "utils.video_utils",
+        "documentation": {}
+    },
+    {
+        "label": "decode_base64_image",
+        "kind": 2,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "def decode_base64_image(base64_str):\n    img_data = base64.b64decode(base64_str)\n    np_arr = np.frombuffer(img_data, dtype=np.uint8)\n    return cv2.imdecode(np_arr, cv2.IMREAD_COLOR)\n# Définir le schéma des messages Kafka\nschema = StructType() \\\n    .add(\"camera_id\", StringType()) \\\n    .add(\"data\", StringType())  # Image encodée en base64\n# Lecture du flux Kafka\ndf = spark.readStream \\",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "process_row",
+        "kind": 2,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "def process_row(row):\n    global output_video_frames\n    global frame_buffer\n    global firstly\n    global court_keypoints\n    camera_id = row.camera_id\n    frame_data = row.data\n    # Décoder l'image\n    frame = decode_base64_image(frame_data)\n    # Ajouter la frame au tampon",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "spark = SparkSession.builder \\\n    .appName(\"Kafka Spark Structured Streaming App\") \\\n    .master(\"local[*]\") \\\n    .config(\"spark.jars.packages\", \n            \"org.apache.spark:spark-sql-kafka-0-10_2.12:3.4.4\"\n            ) \\\n    .config(\"spark.executor.memory\", \"4g\") \\\n    .config(\"spark.executor.cores\", \"4\") \\\n    .config(\"spark.driver.memory\", \"4g\") \\\n    .config(\"spark.hadoop.io.native.lib.available\", \"false\") \\",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "player_tracker",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "player_tracker = PlayerTracker(model_path=r'C:\\Users\\HP\\OneDrive\\Desktop\\Tennis_analysis\\bigData\\yolov8x.pt')\nball_tracker = BallTracker(model_path=r'C:\\Users\\HP\\OneDrive\\Desktop\\Tennis_analysis\\bigData\\models\\best.pt')\ncourt_line_detector = CourtLineDetector(model_path=r'C:\\Users\\HP\\OneDrive\\Desktop\\Tennis_analysis\\bigData\\models\\keypoints_model.pth')\nmini_court = MiniCourt()\noutput_video_frames = []\nfirstly=True\n# Configuration MongoDB\nMONGO_URI = 'mongodb://root:example@localhost:27017'\nDB_NAME = 'face_recognition_db'\nENCODINGS_COLLECTION = 'encodings'",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "ball_tracker",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "ball_tracker = BallTracker(model_path=r'C:\\Users\\HP\\OneDrive\\Desktop\\Tennis_analysis\\bigData\\models\\best.pt')\ncourt_line_detector = CourtLineDetector(model_path=r'C:\\Users\\HP\\OneDrive\\Desktop\\Tennis_analysis\\bigData\\models\\keypoints_model.pth')\nmini_court = MiniCourt()\noutput_video_frames = []\nfirstly=True\n# Configuration MongoDB\nMONGO_URI = 'mongodb://root:example@localhost:27017'\nDB_NAME = 'face_recognition_db'\nENCODINGS_COLLECTION = 'encodings'\nrecognizer = FaceRecognizer(MONGO_URI, DB_NAME, ENCODINGS_COLLECTION)",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "court_line_detector",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "court_line_detector = CourtLineDetector(model_path=r'C:\\Users\\HP\\OneDrive\\Desktop\\Tennis_analysis\\bigData\\models\\keypoints_model.pth')\nmini_court = MiniCourt()\noutput_video_frames = []\nfirstly=True\n# Configuration MongoDB\nMONGO_URI = 'mongodb://root:example@localhost:27017'\nDB_NAME = 'face_recognition_db'\nENCODINGS_COLLECTION = 'encodings'\nrecognizer = FaceRecognizer(MONGO_URI, DB_NAME, ENCODINGS_COLLECTION)\n# Fonction pour décoder une image base64",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "mini_court",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "mini_court = MiniCourt()\noutput_video_frames = []\nfirstly=True\n# Configuration MongoDB\nMONGO_URI = 'mongodb://root:example@localhost:27017'\nDB_NAME = 'face_recognition_db'\nENCODINGS_COLLECTION = 'encodings'\nrecognizer = FaceRecognizer(MONGO_URI, DB_NAME, ENCODINGS_COLLECTION)\n# Fonction pour décoder une image base64\ndef decode_base64_image(base64_str):",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "output_video_frames",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "output_video_frames = []\nfirstly=True\n# Configuration MongoDB\nMONGO_URI = 'mongodb://root:example@localhost:27017'\nDB_NAME = 'face_recognition_db'\nENCODINGS_COLLECTION = 'encodings'\nrecognizer = FaceRecognizer(MONGO_URI, DB_NAME, ENCODINGS_COLLECTION)\n# Fonction pour décoder une image base64\ndef decode_base64_image(base64_str):\n    img_data = base64.b64decode(base64_str)",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "MONGO_URI",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "MONGO_URI = 'mongodb://root:example@localhost:27017'\nDB_NAME = 'face_recognition_db'\nENCODINGS_COLLECTION = 'encodings'\nrecognizer = FaceRecognizer(MONGO_URI, DB_NAME, ENCODINGS_COLLECTION)\n# Fonction pour décoder une image base64\ndef decode_base64_image(base64_str):\n    img_data = base64.b64decode(base64_str)\n    np_arr = np.frombuffer(img_data, dtype=np.uint8)\n    return cv2.imdecode(np_arr, cv2.IMREAD_COLOR)\n# Définir le schéma des messages Kafka",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "DB_NAME = 'face_recognition_db'\nENCODINGS_COLLECTION = 'encodings'\nrecognizer = FaceRecognizer(MONGO_URI, DB_NAME, ENCODINGS_COLLECTION)\n# Fonction pour décoder une image base64\ndef decode_base64_image(base64_str):\n    img_data = base64.b64decode(base64_str)\n    np_arr = np.frombuffer(img_data, dtype=np.uint8)\n    return cv2.imdecode(np_arr, cv2.IMREAD_COLOR)\n# Définir le schéma des messages Kafka\nschema = StructType() \\",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "ENCODINGS_COLLECTION",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "ENCODINGS_COLLECTION = 'encodings'\nrecognizer = FaceRecognizer(MONGO_URI, DB_NAME, ENCODINGS_COLLECTION)\n# Fonction pour décoder une image base64\ndef decode_base64_image(base64_str):\n    img_data = base64.b64decode(base64_str)\n    np_arr = np.frombuffer(img_data, dtype=np.uint8)\n    return cv2.imdecode(np_arr, cv2.IMREAD_COLOR)\n# Définir le schéma des messages Kafka\nschema = StructType() \\\n    .add(\"camera_id\", StringType()) \\",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "recognizer",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "recognizer = FaceRecognizer(MONGO_URI, DB_NAME, ENCODINGS_COLLECTION)\n# Fonction pour décoder une image base64\ndef decode_base64_image(base64_str):\n    img_data = base64.b64decode(base64_str)\n    np_arr = np.frombuffer(img_data, dtype=np.uint8)\n    return cv2.imdecode(np_arr, cv2.IMREAD_COLOR)\n# Définir le schéma des messages Kafka\nschema = StructType() \\\n    .add(\"camera_id\", StringType()) \\\n    .add(\"data\", StringType())  # Image encodée en base64",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "schema = StructType() \\\n    .add(\"camera_id\", StringType()) \\\n    .add(\"data\", StringType())  # Image encodée en base64\n# Lecture du flux Kafka\ndf = spark.readStream \\\n    .format(\"kafka\") \\\n    .option(\"kafka.bootstrap.servers\", \"localhost:29092\") \\\n    .option(\"subscribe\", \"camera_streams\") \\\n    .load()\n# Transformation du flux Kafka en DataFrame avec schéma",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "df = spark.readStream \\\n    .format(\"kafka\") \\\n    .option(\"kafka.bootstrap.servers\", \"localhost:29092\") \\\n    .option(\"subscribe\", \"camera_streams\") \\\n    .load()\n# Transformation du flux Kafka en DataFrame avec schéma\ndf_parsed = df.selectExpr(\"CAST(value AS STRING)\") \\\n    .selectExpr(\"from_json(value, 'camera_id STRING, data STRING') AS json\") \\\n    .select(\"json.camera_id\", \"json.data\")\n# Tampon pour accumuler les frames",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "df_parsed",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "df_parsed = df.selectExpr(\"CAST(value AS STRING)\") \\\n    .selectExpr(\"from_json(value, 'camera_id STRING, data STRING') AS json\") \\\n    .select(\"json.camera_id\", \"json.data\")\n# Tampon pour accumuler les frames\nframe_buffer = []\ncourt_keypoints = []\n# Fonction de traitement pour Spark\ndef process_row(row):\n    global output_video_frames\n    global frame_buffer",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "frame_buffer",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "frame_buffer = []\ncourt_keypoints = []\n# Fonction de traitement pour Spark\ndef process_row(row):\n    global output_video_frames\n    global frame_buffer\n    global firstly\n    global court_keypoints\n    camera_id = row.camera_id\n    frame_data = row.data",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "court_keypoints",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "court_keypoints = []\n# Fonction de traitement pour Spark\ndef process_row(row):\n    global output_video_frames\n    global frame_buffer\n    global firstly\n    global court_keypoints\n    camera_id = row.camera_id\n    frame_data = row.data\n    # Décoder l'image",
+        "detail": "spark_v2",
+        "documentation": {}
+    },
+    {
+        "label": "query",
+        "kind": 5,
+        "importPath": "spark_v2",
+        "description": "spark_v2",
+        "peekOfCode": "query = df_parsed.writeStream \\\n    .foreach(process_row) \\\n    .start()\nquery.awaitTermination()",
+        "detail": "spark_v2",
+        "documentation": {}
+    }
+]
